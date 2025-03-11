@@ -1,0 +1,93 @@
+
+        img{
+            display: flex;
+            height: 25%;
+            width: 25%;
+           
+        }
+        h1{
+            display: block;
+            text-align: center;
+            color: rgb(0, 0, 0);
+            background-color: aqua;
+            margin: 20px;
+            margin-top: 50px;
+            ;
+        
+        }
+        
+        h4{
+            text-align: center;
+            background-color: rgba(210, 66, 30, 0.449);
+            margin-bottom: 50px;
+            margin-top: 100px;
+
+        }
+        h5{
+            margin-bottom: 0;
+        }
+        h6{
+            margin-top: 4px;
+         }
+        nav{ 
+            display: flex;
+            justify-content: center;
+            justify-content: space-around;
+           flex-direction: row;
+           margin: 0px;
+           
+           
+
+
+        }
+        .Home{
+            display: block;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           font-size: x-large;
+            
+            
+        }
+        .Articoli{
+            display: block;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+            font-size: x-large;
+            padding-inline-start: 0;
+            
+        }
+        .Lavora{
+            display: block; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: x-large;
+            padding-inline-start: 0;
+           
+        }
+       
+        a{
+            text-decoration: none;
+        }
+        .li-list{
+            background-color: rgba(243, 208, 9, 0.408);
+        }
+        .li-list1{
+            background-color: rgba(243, 208, 9, 0.408);
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }
+          th, td {
+            padding-top: 10px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 40px;
+          }
+          .Rimanere-agg{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+          }
+
+          .li-fondo{
+            display: block;
+            list-style-type: none;
+            
+          }
